@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.espacio {
+    width: 800px;
+}
+
+.recluta {
+    margin-top: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgb(182, 182, 182);
+}
+
+.seccionR {
+    margin-top: 1%;
+}
+
+.btn {
+    margin-top: 25px;
+    background-color: #204D84;
+}
+
+.colorclar {
+    background-color: #204d8434;
+    margin-left: -15px;
+    margin-right: -15px;
+    color: #204D84;
+}
+
+.colorclarPrincipal {
+    background-color: #204D84;
+    margin-left: -15px;
+    margin-right: -15px;
+}

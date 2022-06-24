@@ -1,0 +1,53 @@
+.btnes {
+    padding: 10px 10%;
+    background: #ffffff;
+    box-shadow: 0 0px 10px 0 rgba(180, 182, 189, 0.18);
+    width: 400px;
+    margin: 5px;
+    border-radius: 0cm;
+}
+
+.btnes:hover {
+    background-color: #204d8417;
+}
+
+.icon {
+    color: #204d84;
+}
+
+.pagination {
+    margin-top: 25px;
+    color: #204D84;
+}
+
+.seleccionado {
+    background: #204d84;
+}
+
+
+/* footer */
+
+.containerfooter {
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.container {
+    margin-bottom: 40px;
+}
+
+footer {
+    border-top: 1px solid white;
+    background: #204d84;
+    text-decoration: none;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(255, 253, 253);
+}
+
+footer b {
+    text-decoration: none;
+    color: rgb(247, 247, 247);
+}
